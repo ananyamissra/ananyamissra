@@ -1,5 +1,5 @@
 ![Header](./github-header-image.png)
-<h1 align="center">Namaste 🙏🏼, I'm Ananya Mishra</h1>
+<h1 align="center">🙏🏼 Welcome to my GitHub Profile</h1>
 <h3 align="center">An Aspiring Web Developer on a Coding Journey</h3>
 <img align="right" alt="Coder" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
