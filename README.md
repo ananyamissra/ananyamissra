@@ -1,4 +1,4 @@
-![Header](./github-header.png)
+![Header](./header.png)
 <h1 align="center">🙏🏼 Welcome to my GitHub Profile</h1>
 <h3 align="center">I'm an Aspiring Web Developer on a Coding Journey</h3>
 <img align="right" alt="Coder" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
